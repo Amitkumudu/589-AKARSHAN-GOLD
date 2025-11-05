@@ -1,0 +1,240 @@
+D:\JM 916\Invoice\AKGOLD\invoice\obj\Release\invoice.exe
+D:\JM 916\Invoice\AKGOLD\invoice\obj\Release\invoice.xml
+D:\JM 916\Invoice\AKGOLD\invoice\obj\Release\invoice.pdb
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\invoice.exe.manifest
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\invoice.application
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\invoice.exe
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\invoice.pdb
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\invoice.xml
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\CrystalDecisions.Shared.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\FlashControlV71.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\stdole.dll
+D:\JM 916\Invoice\AKGOLD\invoice\bin\Release\ShockwaveFlashObjects.dll
+D:\JM 916\Invoice\AKGOLD\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+D:\JM 916\Invoice\AKGOLD\invoice\obj\Release\invoice.Form1.resources
+D:\JM 916\Invoice\AKGOLD\invoice\obj\Release\invoice.Resources.resources
+D:\JM 916\Invoice\AKGOLD\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+D:\JM 916\Invoice\AKGOLD\invoice\obj\Release\invoice.exe.manifest
+D:\JM 916\Invoice\AKGOLD\invoice\obj\Release\invoice.application
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.exe
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.xml
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.pdb
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\invoice.exe.manifest
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\invoice.application
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\invoice.exe
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\invoice.pdb
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\invoice.xml
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.Shared.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\FlashControlV71.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\stdole.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\bin\Release\ShockwaveFlashObjects.dll
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.Form1.resources
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.Resources.resources
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.exe.manifest
+D:\JM 916\INVOICE NEW-pallavi\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.application
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.exe
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.xml
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.pdb
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\invoice.exe.manifest
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\invoice.application
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\invoice.exe
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\invoice.pdb
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\invoice.xml
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.Shared.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\FlashControlV71.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\stdole.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\bin\Release\ShockwaveFlashObjects.dll
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.Form1.resources
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.Resources.resources
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.exe.manifest
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.application
+E:\final gst invoices\AKG-NEW\AKGOLD\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.exe
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.xml
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.pdb
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\invoice.exe.manifest
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\invoice.application
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\invoice.exe
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\invoice.pdb
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\invoice.xml
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.Shared.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\FlashControlV71.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\stdole.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\ShockwaveFlashObjects.dll
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.Form1.resources
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.Resources.resources
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.exe.manifest
+E:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.application
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.exe
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.xml
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.pdb
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\invoice.exe.manifest
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\invoice.application
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\invoice.exe
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\invoice.pdb
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\invoice.xml
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.Shared.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\FlashControlV71.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\stdole.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\bin\Release\ShockwaveFlashObjects.dll
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.Form1.resources
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.Resources.resources
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.exe.manifest
+D:\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.application
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.exe
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.xml
+D:\D-Drive\A.SASI\SASI EDITED INVOICE sourcecode\NEW INVOICES\AKGOLD\invoice\obj\Release\invoice.pdb
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\invoice.exe.manifest
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\invoice.application
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\invoice.exe
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\invoice.pdb
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\invoice.xml
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\CrystalDecisions.Shared.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\FlashControlV71.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\stdole.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\bin\Release\ShockwaveFlashObjects.dll
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\obj\Release\invoice.vbprojResolveAssemblyReference.cache
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\obj\Release\invoice.Form1.resources
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\obj\Release\invoice.Resources.resources
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\obj\Release\invoice.exe.manifest
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\obj\Release\invoice.application
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\obj\Release\invoice.exe
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\obj\Release\invoice.xml
+H:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\obj\Release\invoice.pdb
+E:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\obj\Release\invoice.exe
+E:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\obj\Release\invoice.xml
+E:\NEW INVOICES\NEW INVOICES\589-AKGOLD\invoice\obj\Release\invoice.pdb
+C:\Users\amith\OneDrive\Desktop\Invoice_update\1-changed invoice\589-AKGOLD\invoice\obj\Release\invoice.exe
+C:\Users\amith\OneDrive\Desktop\Invoice_update\1-changed invoice\589-AKGOLD\invoice\obj\Release\invoice.xml
+C:\Users\amith\OneDrive\Desktop\Invoice_update\1-changed invoice\589-AKGOLD\invoice\obj\Release\invoice.pdb
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\invoice.exe.manifest
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\invoice.application
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\invoice.exe
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\invoice.pdb
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\invoice.xml
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\CrystalDecisions.Shared.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\FlashControlV71.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\stdole.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\bin\Release\ShockwaveFlashObjects.dll
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\obj\Release\invoice.Form1.resources
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\obj\Release\invoice.Resources.resources
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\obj\Release\invoice.vbproj.GenerateResource.Cache
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\obj\Release\invoice.exe.manifest
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\obj\Release\invoice.application
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\obj\Release\invoice.exe
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\obj\Release\invoice.xml
+D:\Daily_invoice_changes\2025_invoice changes\589-AKGOLD\589-AKGOLD\invoice\obj\Release\invoice.pdb
+A:\Customer invoice Formate_500 to 600\589-AKGOLD\589-AKGOLD\invoice\obj\Release\invoice.exe
+A:\Customer invoice Formate_500 to 600\589-AKGOLD\589-AKGOLD\invoice\obj\Release\invoice.xml
+A:\Customer invoice Formate_500 to 600\589-AKGOLD\589-AKGOLD\invoice\obj\Release\invoice.pdb
